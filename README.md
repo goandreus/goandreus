@@ -37,7 +37,7 @@
 <a href="https://fb.com/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="goandreus" height="30" width="30" /></a>
 <a href="https://instagram.com/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="goandreus" height="30" width="30" /></a>
 <a href="https://dribbble.com/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="goandreus" height="30" width="30" /></a>
-<a href="https://medium.com/@goandreusl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@goandreus" height="30" width="30" /></a>
+<a href="https://medium.com/@goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@goandreus" height="30" width="30" /></a>
 </p>
 
 
