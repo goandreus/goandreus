@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres Chavez</h1>
 <h3 align="center">A passionate Software Engineer from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goandreus" alt="goandreus" /> </p>
 
 - 🔭 I’m currently working on [Wiserskills](https://www.wiserskills.com/)
 
