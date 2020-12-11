@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **andres.chavez.crisostomo@gmail.com**
 
-- ⚡ Fun fact **I love read**
+- ⚡ Fun fact **I love read and code**
 
 <!--  ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
