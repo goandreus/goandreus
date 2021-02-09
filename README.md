@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Chavez</h1>
 <h3 align="center">A passionate Software Engineer from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goandreus" alt="goandreus" /> </p> [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:giampieer24@gmail.com)](mailto:andres.chavez.crisostomo@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goandreus" alt="goandreus" /> </p>
 
-### 👨🏻‍💻 Connect with me
+###  Connect with me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:giampieer24@gmail.com)](mailto:andres.chavez.crisostomo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goandreus/)](https://www.linkedin.com/in/goandreus/)
@@ -69,12 +69,6 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 
 
-<p align="center"> 
-<a href="https://twitter.com/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="goandreus" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="goandreus" height="30" width="30" /></a>
-<a href="https://fb.com/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="goandreus" height="30" width="30" /></a>
-<a href="https://instagram.com/goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="goandreus" height="30" width="30" /></a>
-<a href="https://medium.com/@goandreus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@goandreus" height="30" width="30" /></a>
-</p>
+
 
 
