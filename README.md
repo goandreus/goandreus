@@ -41,7 +41,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FF2D20?style=flat-square&logo=Swift&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
-  <br/> ✨ Web : <br/>
+  <br/> ✨ Frontend : <br/>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-VueJS-25D366?style=flat-square&logo=VueJS&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-react-0175C2?style=flat-square&logo=react&logoColor=white" />
