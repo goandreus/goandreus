@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goandreus" alt="goandreus" /> </p>
-
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:giampieer24@gmail.com)](mailto:andres.chavez.crisostomo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goandreus/)](https://www.linkedin.com/in/goandreus/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51927760072)](https://api.whatsapp.com/send?phone=+51927760072)
 
 - 🔭 I’m currently working on [Wiserskills](https://www.wiserskills.com/)
 
