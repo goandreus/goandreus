@@ -45,7 +45,6 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-VueJS-25D366?style=flat-square&logo=VueJS&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-react-0175C2?style=flat-square&logo=react&logoColor=white" />
-
   <br/>✨ DB : <br/>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
@@ -64,7 +63,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <br/> ✨ Others : <br/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-aws-FF2D20?style=flat-square&logo=aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-amazon-FF2D20?style=flat-square&logo=aws&logoColor=white" />
   <img alt="IBM" src="https://img.shields.io/badge/-IBM-054ADA?style=flat-square&logo=IBM&logoColor=white" />
 </p>
 
