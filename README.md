@@ -63,7 +63,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <br/> ✨ Others : <br/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-amazon-FF2D20?style=flat-square&logo=aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF2D20?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="IBM" src="https://img.shields.io/badge/-IBM-054ADA?style=flat-square&logo=IBM&logoColor=white" />
 </p>
 
