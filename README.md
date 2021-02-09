@@ -19,7 +19,15 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goandreus&show_icons=true" alt="goandreus" /></p>
+### Technology Stack:
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/giampieer">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giampieer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giampieer&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+### 🛠 &nbsp;Tech Stack
 
 
 Technologies that I've been learning and I've picked up along my programming journey.
