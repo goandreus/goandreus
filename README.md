@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Chavez</h1>
 <h3 align="center">A passionate Software Engineer from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goandreus" alt="goandreus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goandreus" alt="goandreus" /> </p> [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:giampieer24@gmail.com)](mailto:andres.chavez.crisostomo@gmail.com)
 
 ### 👨🏻‍💻 Connect with me
 
