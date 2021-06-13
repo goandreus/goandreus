@@ -32,8 +32,8 @@
   
   </a>
 </p>
-### 🛠 &nbsp;Tech Stack
 
+### 🛠 &nbsp;Tech Stack
 
 Technologies that I've been learning and I've picked up along my programming journey.
 <p>
