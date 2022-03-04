@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goandreus/)](https://www.linkedin.com/in/goandreus/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51927760072)](https://api.whatsapp.com/send?phone=+51927760072)
 
-- 🔭 I’m currently working on [Ordename](https://ordename.cl)
+- 🔭 I’m currently working on [Wiserskills](https://wiserskills.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/goandreus/](https://www.linkedin.com/in/goandreus/)
 
